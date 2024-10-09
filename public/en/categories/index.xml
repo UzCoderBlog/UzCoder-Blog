@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on My Website</title>
-    <link>http://localhost:1313/en/categories/</link>
-    <description>Recent content in Categories on My Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Ayder Nurmuhammedov</copyright>
-    <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Blog</title>
-      <link>http://localhost:1313/en/categories/about-blog/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/categories/about-blog/</guid>
-      <description></description>
-    </item>
-  </channel>
+    <channel>
+        <title>Categories on My Website</title>
+        <link>http://localhost:1313/en/categories/</link>
+        <description>Recent content in Categories on My Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Ayder Nurmuhammedov</copyright>
+        <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About Blog</title>
+        <link>http://localhost:1313/en/categories/about-blog/</link>
+        <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/categories/about-blog/</guid>
+        <description>&lt;img src="http://localhost:1313/en/categories/about-blog/About%20Blog.jpg" alt="Featured image of post About Blog" /&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

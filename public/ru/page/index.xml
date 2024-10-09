@@ -1,41 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Картавый Программист</title>
-    <link>http://localhost:1313/ru/page/</link>
-    <description>Recent content in Pages on Картавый Программист</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <copyright>Айдер Нурмухаммедов</copyright>
-    <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Архивы</title>
-      <link>http://localhost:1313/ru/archives/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/archives/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>О себе</title>
-      <link>http://localhost:1313/ru/%D0%BE-%D1%81%D0%B5%D0%B1%D0%B5/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/%D0%BE-%D1%81%D0%B5%D0%B1%D0%B5/</guid>
-      <description>&lt;p&gt;Здравствуй &lt;strong&gt;друг&lt;/strong&gt;. Добро пожпловать на мой сайт.&lt;/p&gt;&#xA;&lt;p&gt;Меня зовут Айдер, я артист, я артист художник. Я здесь воплощаю свои идеи и глубокие темные фантазии. Чтобы делать людей счастливыми.&lt;/p&gt;&#xA;&lt;p&gt;В этом сайте нет места политике. Исключительно развлекательный контент и обучающая информация.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Поиск</title>
-      <link>http://localhost:1313/ru/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/search/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ссылки</title>
-      <link>http://localhost:1313/ru/%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/</guid>
-      <description>&lt;p&gt;Все полезные ссылки&lt;/p&gt;</description>
-    </item>
-  </channel>
+    <channel>
+        <title>Pages on Картавый Программист</title>
+        <link>http://localhost:1313/ru/page/</link>
+        <description>Recent content in Pages on Картавый Программист</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru</language>
+        <copyright>Айдер Нурмухаммедов</copyright>
+        <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ru/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Архивы</title>
+        <link>http://localhost:1313/ru/archives/</link>
+        <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ru/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>О себе</title>
+        <link>http://localhost:1313/ru/%D0%BE-%D1%81%D0%B5%D0%B1%D0%B5/</link>
+        <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ru/%D0%BE-%D1%81%D0%B5%D0%B1%D0%B5/</guid>
+        <description>&lt;img src="http://localhost:1313/ru/%D0%BE-%D1%81%D0%B5%D0%B1%D0%B5/img/About.jpg" alt="Featured image of post О себе" /&gt;&lt;p&gt;Здравствуй &lt;strong&gt;друг&lt;/strong&gt;. Добро пожпловать на мой сайт.&lt;/p&gt;
+&lt;p&gt;Меня зовут Айдер, я артист, я артист художник. Я здесь воплощаю свои идеи и глубокие темные фантазии. Чтобы делать людей счастливыми.&lt;/p&gt;
+&lt;p&gt;В этом сайте нет места политике. Исключительно развлекательный контент и обучающая информация.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Поиск</title>
+        <link>http://localhost:1313/ru/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ru/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ссылки</title>
+        <link>http://localhost:1313/ru/%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ru/%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/</guid>
+        <description>&lt;p&gt;Все полезные ссылки&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
