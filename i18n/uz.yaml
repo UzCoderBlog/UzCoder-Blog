@@ -1,0 +1,71 @@
+toggleMenu:
+    other: Menyuni ko'rsatish / yashirish
+
+
+darkMode:
+    other: Yorug'lik rejimi
+
+
+
+list:
+    page:
+        one: "{{ .Count }} bet"
+        few: "{{ .Count }} bet"
+        many: "{{ .Count }} bet"
+        other: "{{ .Count }} bet"
+
+    section:
+        other: Bo'lim
+
+    subsection:
+        one: Bo'limostilari
+        few: Bo'limostilari
+        many: Bo'limostilari
+        other: Bo'limostilari
+
+
+
+article:
+    back:
+        other: orqaga
+    relatedContent:
+        other: Shuningdek, tavsiya qilamiz
+    lastUpdatedOn:
+        other: Yangilangan
+    tableOfContents: 
+        other: Tarkibi
+    readingTime: 
+        other: "O'qish vaqti: {{ .Count }} min."
+
+notFound:
+    title:
+        other: Topilmadi
+    subtitle:
+        other: So'ralgan sahifa mavjud emas
+
+widget:
+    archives:
+        title:
+            other: Arxivlar
+        more:
+            other: Yana
+    tagCloud:
+        title:
+            other: Teglar
+    categoriesCloud:
+        title:
+            other: Kategoriyalar
+
+search:
+    title:
+        other: Qidiruv
+    placeholder:
+        other: Biror narsani kiriting...
+    resultTitle:
+        other: "#PAGES_COUNT ta sahifa topildi (#TIME_SECONDS s. ichida)"
+
+footer:
+    builtWith:
+        other: Sayt {{ .Generator }} yordamida yaratilgan
+    designedBy:
+        other: Sahifa mavzusi {{ .Theme }}, dizayner {{ .DesignedBy }}

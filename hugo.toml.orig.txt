@@ -1,0 +1,42 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme='hugo-theme-stack'
+
+defaultContentLanguage = "ru"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.ru]
+    languageName = "Русский"
+    weight = 1
+    contentDir = "content/ru"
+    title = "Мой сайт"
+    
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    title = "My Website"
+    
+  [languages.uz]
+    languageName = "O'zbekcha"
+    weight = 2
+    contentDir = "content/uz"
+    title = "Mening Saytim"
+
+[params]
+  [params.sidebar]
+    emoji = "🍥"
+    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    [params.sidebar.avatar]
+      enabled = true
+      local = true
+      src = "img/avatar.png"
+
+
+
+
+
+
